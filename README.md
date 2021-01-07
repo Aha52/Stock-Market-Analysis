@@ -22,3 +22,11 @@
 
 # Weekly Resampling:
 ![](resample(weekly).png)
+
+
+# Volatility of IBM and NVidia Stocks for 2014-2020:
+![](yearly_volatility.png)
+
+
+# Volatility of IBM and NVidia Stocks in 2020:
+![](2020_volatility.png)
